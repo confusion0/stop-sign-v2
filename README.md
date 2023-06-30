@@ -28,7 +28,7 @@ Roles             -> Manage server roles
 
 ### Requirements to contribute
 - [ ] It must be written in Node.js
-- [ ] It must be able to run on [`Node.js v16.11.0`](https://nodejs.org/en/) and [`discord.js v12.5.3 (deprecated)`](https://discord.js.org/#/docs/main/stable/general/welcome) or [`discord.js v13.3.0`](https://discord.js.org/#/docs/main/stable/general/welcome) for slash commands.
+- [ ] It must be able to run on [`Node.js v16.11.0`](https://nodejs.org/en/) and [`discord.js v14.3.0`](https://discord.js.org/#/docs/main/stable/general/welcome) for slash commands.
 
 ## Links
 - [Website](https://stopsign.glitch.me/)
